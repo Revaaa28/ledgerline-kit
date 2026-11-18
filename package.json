@@ -1,0 +1,38 @@
+{
+  "author": "",
+  "dependencies": {
+    "@fontsource/archivo": "^5.3.0",
+    "@fontsource/space-grotesk": "^5.3.0",
+    "@fontsource/space-mono": "^5.3.0",
+    "@hyper-elements/email-clients": "^0.4.16",
+    "@hyper-elements/react": "^0.4.5",
+    "@react-pdf/renderer": "^4.9.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-pdf": "^11.1.0",
+    "satori": "^0.33.5"
+  },
+  "description": "Ledgerline \u2014 the get-paid kit for freelance studios: one invoice data file drives the invoice PDF, the payment-reminder email, the paid receipt email and a share card, all in one Hyper Elements theme.",
+  "devDependencies": {
+    "@hyper-elements/cli": "^0.2.9",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "playwright-core": "^1.65.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ledgerline-kit",
+  "scripts": {
+    "check": "hyper-elements check src/invoice-doc.tsx src/reminder.tsx src/receipt.tsx src/card.tsx",
+    "previews": "node scripts/shots.mjs",
+    "render": "tsx render.tsx",
+    "typecheck": "tsc --noEmit"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}

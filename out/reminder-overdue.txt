@@ -1,0 +1,39 @@
+FORMA
+
+BRAND & DIGITAL STUDIO — AMSTERDAM
+
+PAYMENT REMINDER
+
+INVOICE FS-2026-014 · DUE 5 NOVEMBER 2026
+
+Payment reminder
+
+OVERDUE
+
+24 DAYS PAST DUE
+
+INVOICE FS-2026-014 IS 24 DAYS OVERDUE
+
+Hi {{first_name}},
+
+Invoice FS-2026-014 for €11,894.30 was due on 5 November 2026, and it is still open. Per the terms we both agreed, a late fee has been accruing at 1.5% per month — €142.73 so far — which brings the balance to €12,037.03.
+
+If something is wrong with the invoice, tell us today and we will fix it today. If it is simply stuck in a queue somewhere, please unstick it this week.
+
+Invoice | FS-2026-014
+Project | Brand identity & website — the autumn relaunch
+Issued | 6 October 2026
+Due | 5 November 2026
+Invoice total | €11,894.30
+Late fee so far | €142.73
+Balance due | €12,037.03
+
+Pay €12,037.03 now (https://pay.formastudio.example/FS-2026-014)
+
+Paying by transfer instead? The bank details are on page two of the invoice — quote FS-2026-014 as the reference.
+
+New work for Kova is paused until this invoice is settled — not as a threat, just so the pile doesn't grow.
+
+---
+
+Forma Studio, Herengracht 420, 1017 BZ Amsterdam. This reminder concerns invoice FS-2026-014 issued to Kova Cycles BV. Questions: studio@formastudio.example · Email preferences (https://formastudio.example/email-preferences)

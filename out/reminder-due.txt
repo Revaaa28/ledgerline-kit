@@ -1,0 +1,38 @@
+FORMA
+
+BRAND & DIGITAL STUDIO — AMSTERDAM
+
+A FRIENDLY HEADS-UP
+
+INVOICE FS-2026-014 · DUE 5 NOVEMBER 2026
+
+A friendly heads-up
+
+DUE
+
+5 NOVEMBER 2026
+
+INVOICE FS-2026-014 FALLS DUE IN 3 DAYS
+
+Hi {{first_name}},
+
+No drama — this is the polite tap on the shoulder. Invoice FS-2026-014 for €11,894.30, covering the autumn relaunch work, is due on 5 November 2026. Everything you need is in the invoice itself: the bank details are on page two, and the payment reference is the invoice number.
+
+Paying takes about a minute, and then neither of us has to think about this again.
+
+Invoice | FS-2026-014
+Project | Brand identity & website — the autumn relaunch
+Issued | 6 October 2026
+Due | 5 November 2026
+Invoice total | €11,894.30
+Balance due | €11,894.30
+
+Pay €11,894.30 (https://pay.formastudio.example/FS-2026-014)
+
+Paying by transfer instead? The bank details are on page two of the invoice — quote FS-2026-014 as the reference.
+
+Already paid? Then this email and your payment crossed in the post — ignore it, and thank you.
+
+---
+
+Forma Studio, Herengracht 420, 1017 BZ Amsterdam. This reminder concerns invoice FS-2026-014 issued to Kova Cycles BV. Questions: studio@formastudio.example · Email preferences (https://formastudio.example/email-preferences)
