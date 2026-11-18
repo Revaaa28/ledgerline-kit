@@ -160,6 +160,7 @@ export function TotalsBlock({ v }: { v: InvoiceView }) {
               fontSize: strong ? 19 : 13.5,
               fontWeight: 700,
               color: strong ? statusColors[v.status].deep : ink,
+              textAlign: "right",
             }}
           >
             {value}
